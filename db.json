@@ -1,0 +1,73 @@
+{
+  "profesores": [
+    {
+      "nombre": "Miguel",
+      "apellido": "Retamoso",
+      "materias": [
+        {
+          "nombre": "NodeJs desde Cero"
+        },
+        {
+          "nombre": "React desde Cero"
+        },
+        {
+          "nombre": "Docker desde Cero"
+        }
+      ],
+      "id": "8c9d"
+    },
+    {
+      "id": "d85f",
+      "nombre": "Doris",
+      "apellido": "Infante",
+      "materias": [
+        {
+          "nombre": "Quimica"
+        },
+        {
+          "nombre": "Fisica"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Ambar",
+      "apellido": "Mora",
+      "promedio": 15.5,
+      "id": "799f"
+    },
+    {
+      "nombre": "Rolito",
+      "apellido": "Canelo",
+      "promedio": 16.8,
+      "id": "c769"
+    },
+    {
+      "id": "0fd5",
+      "nombre": "Marcelo",
+      "apellido": "Hermano",
+      "promedio": 11
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJs desde Cero",
+      "duracion": 7,
+      "difucultad": "intermedia",
+      "id": "46da"
+    },
+    {
+      "nombre": "React desde Cero",
+      "duracion": 10,
+      "difucultad": "intermedia",
+      "id": "c565"
+    },
+    {
+      "nombre": "Angular desde Cero",
+      "duracion": 14,
+      "difucultad": "intermedia",
+      "id": "136a"
+    }
+  ]
+}
